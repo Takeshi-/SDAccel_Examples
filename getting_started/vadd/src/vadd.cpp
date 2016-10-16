@@ -55,7 +55,6 @@ ALL TIMES.
 #include <math.h>
 
 //OpenCL includes
-#include <xcl.h>
 #include <vadd.h>
 
 int main(int argc, char* argv[])
